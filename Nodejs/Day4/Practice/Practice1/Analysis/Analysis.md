@@ -1,0 +1,10 @@
+-> Mobike rent assignment
+
+create class wmobike with bikeno, customer name , number and no of day object
+crete compute method that calculate rent
+if no of day is first five then per day 500 and for next five day its per day 400 and rest of day per day 200
+export that class
+create index.js require class mobike
+ask the user to enter detail s using readline
+than call the class object pass all details
+call class method compute

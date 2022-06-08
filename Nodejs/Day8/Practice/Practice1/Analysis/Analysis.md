@@ -1,0 +1,19 @@
+- > authoraization
+- first run npx express-generator
+- than npm install
+- than npm start
+- above command generate some files
+- inside user.js create new route for login create posst method
+- that has object of userdata that store data
+- in that post method if user is admind then get sucess message
+- otherwise got failure messsage
+- install jsonwebtoken
+- cretate one config file that has export secretkey and algorithm
+- require that global.config  = require ('./config')
+- inside post method create cretate token jwt.sign that require userdata, and global.config. secret key and algorithm
+- create new file customer.js that require router , express
+- create route.get method that method has customer json
+- res.json that customer data
+- inside customer.js cretate anoher route.use that callback function
+- that callback function has token
+- add jwt.verfify method that te verify token

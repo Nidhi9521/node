@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "name": "sky",
+        "displayname": "2463-sky",
+        "Dlno": "ASD345",
+        "dob": "28/10/2000",
+        "phone": 123456789,
+        "address": "kalol",
+        "state": "Gujarat",
+        "country": "india"
+    },
+    {
+        "id": 2,
+        "name": "xyz",
+        "displayname": "2400-xyz",
+        "Dlno": "xyz45",
+        "dob": "24/01/2000",
+        "phone": 985612,
+        "address": "ahmedabad",
+        "state": "Gujarat",
+        "country": "india"
+    }
+]

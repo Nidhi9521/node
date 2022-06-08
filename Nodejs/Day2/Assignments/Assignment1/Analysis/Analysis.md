@@ -1,0 +1,10 @@
+- define argument varible that accept argument from comand line
+- covert all three argument in number
+- define two variable result, statement
+- define switch case 
+- case 1 that do additon store in result 
+- case 2 tha do subtractio store in result
+- case 3 that do multiplication store in result
+- case 4 that do division store in result
+- defalut case for wrong choice
+- then call append file function and add statment and result in that file

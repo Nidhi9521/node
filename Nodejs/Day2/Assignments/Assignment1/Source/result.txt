@@ -1,0 +1,5 @@
+
+Division resultult 0.8571428571428571
+Subtraction resultult -1
+Addition resultult 13
+Division resultult 0.8571428571428571
