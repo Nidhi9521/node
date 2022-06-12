@@ -9,11 +9,13 @@ class empDomain {
         var newdata = {
             "_id": req.body._id,
             "name": req.body.name,
+            "Grade" : req.body.Grade
         }
 
         const scheme = joi.object({
             _id: joi.number().min(0),
             name: joi.string().min(3),
+            Grade : joi.string().min(0),
 
         })
 
