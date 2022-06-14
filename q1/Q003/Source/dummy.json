@@ -1,0 +1,16 @@
+[
+    {
+        "first_name": "akash",
+        "last_name": "gupta",
+        "email": "asd@gmail.com",
+        "password": "1234",
+        "created_date": "14-05-2022"
+    },
+    {
+        "first_name": "sky",
+        "last_name": "gupta",
+        "email": "asdfd@gmail.com",
+        "password": "1234",
+        "created_date": "14-05-2022"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "akash",
+        "age": 20,
+        "result": {
+            "eng": 45,
+            "maths": 50,
+            "guj": 98
+        },
+        "fees": {
+            "amount": 1000,
+            "date": "14-06-2022"
+        },
+        "assignment": [
+            {
+                "assignmentid": 1,
+                "name": "eng"
+            },
+            {
+                "assignmentid": 2,
+                "name": "guj"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "assdh",
+        "age": 20,
+        "result": {
+            "eng": 45,
+            "maths": 50,
+            "guj": 98
+        },
+        "fees": {
+            "amount": 4000,
+            "date": "05-06-2022"
+        },
+        "assignment": [
+            {
+                "assignmentid": 78,
+                "name": "eng"
+            },
+            {
+                "assignmentid": 3,
+                "name": "guj"
+            }
+        ]
+    }
+]
